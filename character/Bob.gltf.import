@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bvwm81fel1yko"
-path="res://.godot/imported/Bob.gltf-b746ace7d26433db243e261bb66c1d57.scn"
+path="res://.godot/imported/Bob.gltf-599b00afcab25f6b8db915542cb71887.scn"
 
 [deps]
 
-source_file="res://Bob.gltf"
-dest_files=["res://.godot/imported/Bob.gltf-b746ace7d26433db243e261bb66c1d57.scn"]
+source_file="res://character/Bob.gltf"
+dest_files=["res://.godot/imported/Bob.gltf-599b00afcab25f6b8db915542cb71887.scn"]
 
 [params]
 

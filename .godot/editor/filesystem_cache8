@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1702722788
+icon.svg::CompressedTexture2D::7732605480016122550::1702658466::1702722069::1::::<><>::
+::res://character/::1702722281
+Bob.gltf::PackedScene::3906591619321772546::1702658466::1702722281::1::::<><>::
+::res://scenes/::1702722672
+node_3d.tscn::PackedScene::3045491531186300630::1702722672::0::1::::<><>::res://scripts/CharacterBody3D.gd<>uid://bvwm81fel1yko::::res://character/Bob.gltf<>res://scripts/pivot.gd
+::res://scripts/::1702722311
+CharacterBody3D.gd::GDScript::-1::1702658466::0::1::::<>CharacterBody3D<>::
+pivot.gd::GDScript::-1::1702658466::0::1::::<>CollisionShape3D<>::
